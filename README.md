@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Tedington
-- 👀 I’m interested in Frontend, Backend, smart-contracts,
--  and blockchain projects. I'm also to open to internships.
-- 🌱 I’m currently learning Js, node, React, Solidity, Blockchain.
+- 👋 Hi, I’m @Teda
 - 💞️ I’m looking to collaborate on any project to expand my knowledge.
-- 📫 You can reach me on twitter @Temitope_Dansa, 
-- on Discord @Teda#4845.
+- 📫 You can reach me on twitter @T3d4_, 
+- on Discord @Teda.
 
 <!---
 Tedington/Tedington is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
