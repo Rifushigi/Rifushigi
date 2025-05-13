@@ -1,8 +1,6 @@
-# Hey, I’m Teda (aka Rifushigi リフシギ) 👋  
+# Hey, I’m Rifushigi (リフシギ)  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A41D&width=550&lines=>_Scanning+for+challenges...;>_Decoding+complexity...;>_Executing+brilliant+solution...;>_Success:+Problem+solved!)
-
-I’m Rifushigi (リフシギ)—a problem-solver who thrives on breaking down complexity, optimising systems, and turning challenges into solutions.
 
 ---
 
